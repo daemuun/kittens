@@ -4,10 +4,10 @@
     <string name="kitten_name2">Шлёпа</string>
     <string name="kitten_name3">Мистер Фреш</string>
     <string name="kitten_name4">Хрустящий кот</string>
-    <string name="kitten_name5">Драматичный котёнок</string>
+    <string name="kitten_name5">Грустный котёнок</string>
     <string name="kitten_name6">Кот Максвелл</string>
     <string name="kitten_name7">Pop cat</string>
-    <string name="kitten_name8">Чипи чипи чапа чапа</string>
+    <string name="kitten_name8">Чипи чипи кот</string>
     <string name="kitten_description1">Серый удивлённый кот</string>
     <string name="kitten_description2">Большеухий котик</string>
     <string name="kitten_description3">Рыжий котик ест корм</string>
@@ -24,4 +24,7 @@
     <string name="kitten_age6">9 лет</string>
     <string name="kitten_age7">5 лет</string>
     <string name="kitten_age8">2 года</string>
+    <string name="expand_more_btn_desc">Развернуть информацию о котиках</string>
+    <string name="expand_less_btn_desc">Свернуть информацию о котиках</string>
+    <string name="about">О котёнке:</string>
 </resources>

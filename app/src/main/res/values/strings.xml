@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Kittens</string>
+    <string name="kitten_name1">Чмоня</string>
+    <string name="kitten_name2">Шлёпа</string>
+    <string name="kitten_name3">Мистер Фреш</string>
+    <string name="kitten_name4">Хрустящий кот</string>
+    <string name="kitten_name5">Драматичный котёнок</string>
+    <string name="kitten_name6">Кот Максвелл</string>
+    <string name="kitten_name7">Pop cat</string>
+    <string name="kitten_name8">Чипи чипи чапа чапа</string>
+    <string name="kitten_description1">Серый удивлённый кот</string>
+    <string name="kitten_description2">Большеухий котик</string>
+    <string name="kitten_description3">Рыжий котик ест корм</string>
+    <string name="kitten_description4">Кот смотрит в камеру с открытыми глазами</string>
+    <string name="kitten_description5">Котёнок в отчаянии</string>
+    <string name="kitten_description6">Крутящийся кот</string>
+    <string name="kitten_description7">Ритмично открывающий рот</string>
+    <string name="kitten_description8">Танцующий котик-чан</string>
+    <string name="kitten_age1">10 лет</string>
+    <string name="kitten_age2">7 лет</string>
+    <string name="kitten_age3">4 года</string>
+    <string name="kitten_age4">15 лет</string>
+    <string name="kitten_age5">3 года</string>
+    <string name="kitten_age6">9 лет</string>
+    <string name="kitten_age7">5 лет</string>
+    <string name="kitten_age8">2 года</string>
+</resources>
